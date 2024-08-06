@@ -9,3 +9,8 @@ h1{
   text-align: center;
   color: black;
 }
+
+img{
+  margin: auto;
+  display: block;
+}
