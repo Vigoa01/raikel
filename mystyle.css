@@ -1,1 +1,12 @@
-body {background-color: #fab62d;}
+body {background-color: gray;
+     display: flex;
+      color:white;
+      flex-direction: column;
+      align-items: center;
+      vh: 100%;
+      font-size: 5rem;
+     }
+
+h1 {
+  text align: center;
+}
